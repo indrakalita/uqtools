@@ -308,6 +308,9 @@ fig, ax = plotRegression.plot_spread_vs_skill_curve_regression([ss_dict], ["NN M
 report = getReport.spread_vs_skill_health_regression(ss_dict)
 print(report)
 
+The `uqtools` module is released under the MIT License and can be freely reused in academic research with attribution.
+See the [LICENSE](LICENSE) file for details.
+
 
 
 
